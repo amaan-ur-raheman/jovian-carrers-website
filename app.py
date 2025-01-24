@@ -19,7 +19,7 @@ JOBS = [
         'id': 3,
         'title': 'Backend Engineer',
         'location': 'San Francisco, USA',
-        'salary': '$120,000',
+        'salary': '$150,000',
     },
     {
         'id': 4,
